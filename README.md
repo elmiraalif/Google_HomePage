@@ -1,1 +1,2 @@
- The Odin Project-Google's Homepage in HTML and CSS
+# Google Home page UI development
+ - HTML & CSS only
